@@ -9,7 +9,7 @@
 * CodeFirst yaklaşımı
 * Clean Architecture
 
-# Proje 6 Katmandan Oluşur:
+# :card_file_box: Proje 6 Katmandan Oluşur:
 * Domain
 * Infrastructure 
 * Application
