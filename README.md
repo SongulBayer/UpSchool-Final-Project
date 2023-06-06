@@ -39,11 +39,11 @@
 * Swager Ekranı
 ![api](https://github.com/SongulBayer/NetCore5.0/assets/63016233/02b6c102-4c00-422d-94ef-7402d79cf3a5)
 * Veri Tabanı Tabloları
-- Product Tablosu
+- Product Tablosu  
 ![Ekran Görüntüsü (172)](https://github.com/SongulBayer/NetCore5.0/assets/63016233/956b919e-7556-40d7-a8b0-acb6393b1cdb)
-- Orders Tablosu 
+- Orders Tablosu  
 ![Ekran Görüntüsü (171)](https://github.com/SongulBayer/NetCore5.0/assets/63016233/40eea47c-3f37-42b6-8f58-5ad27752c49c)
-- OrderEvents Tablosu
+- OrderEvents Tablosu  
 ![Ekran Görüntüsü (171)](https://github.com/SongulBayer/NetCore5.0/assets/63016233/470b6c1c-d643-45af-a8d5-5240a21f9cee)
 
 
