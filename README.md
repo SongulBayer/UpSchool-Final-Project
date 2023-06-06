@@ -22,7 +22,7 @@
 * Mailler her OrderEvent eklendiğinde gitmektedir.
 * Projenin Front-End kısmı yakın zamanda eklenecektit.
 
-# 📝 Projeyi Çalıştırmak İçin Gerekli Konfigürasyonlar
+# :paperclips: Projeyi Çalıştırmak İçin Gerekli Konfigürasyonlar
 * FinalProject.WebApi projesi içerisindeki appsetting.json dosyası içerisinde gerekli düzenlemelerin yapılması gerekir.
 
 ` "ConnectionStrings": {
@@ -31,7 +31,7 @@
   
   * Projeyi çalıştırabilmek için Solution üzerinden Configure Startup Projects sekmesinden Multiple startup projects seçeneğini seçip FinalProject.WebApi, FinalProject.Console, FinalProject.Wasm projesini belirtilen sırada çalıştırmalısınız.
 
-# Projeye Ait Ekran Görüntüleri
+# :spiral_notepad: Projeye Ait Ekran Görüntüleri
 * Log Ekranı  
 ![Ekran Görüntüsü (169)](https://github.com/SongulBayer/NetCore5.0/assets/63016233/ca0e6c5c-d731-4ead-af3e-d3499197b763)  
 * Console Ekranı  
